@@ -8,6 +8,6 @@ stamp_file="stamp-$RANDOM.pdf"
 
 ./create-stamp-pdf.sh "$stamp_text" > "$stamp_file"
 
-pdftk "$src_pdf" background "$stamp_file" output "$target_pdf"
+pdftk "$src_pdf" stamp "$stamp_file" output "$target_pdf"
 
 rm "$stamp_file"
