@@ -1,5 +1,12 @@
 #!/bin/bash
-## Example: ./create-stamp-pdf.sh "my-email@example.com" > stamp.pdf
+
+_create-text-watermark-in-pdf-format
+
+##################################################################################
+# Creates empty PDF with text watermark.
+# Usage: Use to stamp other PDFs.
+# Example: ./{script-name} "my-email@example.com" > stamp.pdf
+##################################################################################
 
 text=${1?provide stamp text, e.g. e-mail address}
 angle=30 # in degrees counterclockwise from horizontal
