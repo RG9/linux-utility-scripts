@@ -10,3 +10,5 @@
 ```
 
 2. Auxiliary/secondary scripts have names prefixed with `_`.
+
+3. Script name should start with context, e.g. `pdf-`, `git-`.
