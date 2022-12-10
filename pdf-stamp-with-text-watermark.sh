@@ -2,7 +2,7 @@
 
 ##################################################################################
 # Stamps PDF with text watermark. 
-# Usage: Stamp private documents with recipient e-mail, so in case of leak you find out the source.  
+# Use case: Stamp private documents with recipient e-mail, so in case of leak you find out the source.  
 # Example: ./{script-name} private-doc.pdf test@example.com
 ##################################################################################
 

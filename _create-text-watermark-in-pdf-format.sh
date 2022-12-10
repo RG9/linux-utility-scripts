@@ -4,7 +4,7 @@ _create-text-watermark-in-pdf-format
 
 ##################################################################################
 # Creates empty PDF with text watermark.
-# Usage: Use to stamp other PDFs.
+# Use case: Use to stamp other PDFs.
 # Example: ./{script-name} "my-email@example.com" > stamp.pdf
 ##################################################################################
 
