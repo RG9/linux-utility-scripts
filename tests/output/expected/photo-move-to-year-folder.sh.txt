@@ -1,0 +1,3 @@
+Would move: 20210112_124321.jpg to /2021
+Would move: 20240321_034001.jpg to /2024
+Would move: 20240321_042001.jpg to /2024

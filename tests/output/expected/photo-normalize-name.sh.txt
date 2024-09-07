@@ -1,0 +1,5 @@
+Would rename: 29708465353_51ec4629d3_with_metadata.jpg to 20161015_024438.jpg
+Cannot rename: 29708465353_af97a3d723_no_metadata.jpg
+Would rename: DJI_20240815_135629_68_null_video (Copy).JPEG to 20240815_135629.jpg
+Would rename: DJI_20240815_135629_68_null_video.mp4 to 20240815_135629.mp4
+Skipping non-file item: JPG_20240815_135629_68
